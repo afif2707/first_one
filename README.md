@@ -1,2 +1,3 @@
 # first_one
-first repository
+this is my first repository
+author-Afif kazi
